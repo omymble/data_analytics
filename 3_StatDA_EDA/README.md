@@ -1,5 +1,7 @@
 # Video game sales analysis for an online store  
 
+https://colab.research.google.com/drive/1fzYLGDAzmvwjJJBwZ_Hq22K5BDGfoH67?authuser=1#scrollTo=CqCLtwxnwkLF - intercative plots
+
 In this project, a historical data analysis of an online store, which sells video games worldwide, was conducted. 
 The goal was to identify patterns that define a game’s success, enabling effective advertising campaign planning and focusing on potentially popular products. 
 The project included several stages: data preparation, exploratory analysis, profiling users from different regions, and testing hypotheses about user preferences and ratings. 
